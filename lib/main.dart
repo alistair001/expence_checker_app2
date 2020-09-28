@@ -45,15 +45,15 @@ class _MyHomePage extends State<MyHomePage> {
 
   final List<Transaction> _userTransactions = [
     /*Transaction(
-      id: "t1",
+      id: "tran1",
       title: "New Shoes",
-      amount: 79.99,
+      amount: 44.99,
       date: DateTime.now(),
     ),
     Transaction(
-      id: "t2",
-      title: "Groceries",
-      amount: 40.50,
+      id: "tran2",
+      title: "Food",
+      amount: 90.50,
       date: DateTime.now(),
     )*/
   ];
